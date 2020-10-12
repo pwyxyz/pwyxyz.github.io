@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://pwyxyz.github.io</id>
     <title>Pigeon</title>
-    <updated>2020-10-12T02:22:53.308Z</updated>
+    <updated>2020-10-12T02:25:19.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://pwyxyz.github.io"/>
     <link rel="self" href="https://pwyxyz.github.io/atom.xml"/>
@@ -17,16 +17,5 @@
         <link href="https://pwyxyz.github.io/post/gridea 博客/">
         </link>
         <updated>2020-10-12T02:12:27.000Z</updated>
-        <content type="html"><![CDATA[<p>某日闲余时间看到一篇介绍Gridea博客平台的文章，大概看了一下觉得此平台还不错，随即自己进入Gridea官网瞅了瞅。哇，这搭建过程也太简单了吧，比Hexo博客搭建要容易很多，而且还有后台管理客户端，很适合小白用户入门。最重要的是不用自己购买域名！可以直接与GitHub或Coding配合展示页面，最新9.2版本已经移除git支持sftp，下面简单介绍下Gridea+GitHub搭建及使用流程，有兴趣的同学可以试试看哦。<br>
-Gridea简介：<br>
-<a href="https://gridea.dev">官网</a></p>
-<p><a href="https://github.com/getgridea/gridea">GitHub主页</a></p>
-<p>关于Gridea大家可以进官网找文档了解，这里我就不列举出来了。进入官网，出现如下界面点击下载相应系统的客户端即可在本地安装，由于官网是github和gitee安装包下载有点慢，现已经打包！！！蓝奏云快速下载</p>
-<p>Gridea+GitHub配置流程：<br>
-<a href="https://gridea.dev/docs">官方文档</a></p>
-<p><a href="https://www.bilibili.com/video/av69627579/">官网推荐教程</a></p>
-<p>总结：<br>
-Gridea是一款开源的博客平台，再加上GitHub Pages或Coding Pages免费静态网站托管服务即可搭建出个人博客平台。Gridea自带后台客户端，配置完成后可以通过客户端写文章并且发布到GitHub Pages网站，即使你不会git相关操作也可以很快上手。</p>
-]]></content>
     </entry>
 </feed>
